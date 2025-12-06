@@ -182,7 +182,7 @@ body { font-family: "Arial", sans-serif; overflow: hidden; background: #000; tou
       "#ff77aa",
     ];
 
-    const messages = ["CHÚC MỪNG SINH NHẬT","07.12.2025","21+","PHẠM THỊ TUYẾT MAI"];
+    const messages = ["CHÚC MỪNG", "SINH NHẬT🎉","07.12.2025","21+","PHẠM THỊ TUYẾT MAI"];
 
     const photos = [
       { url: "images/mei.jpg", emoji: "🎂", wish: "Chúc bạn luôn xinh đẹp, 🌸" },
